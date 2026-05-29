@@ -1,11 +1,18 @@
 # vocabularies
 
-Shared vocabularies and terminology definitions for the SuperInstance ecosystem.
+**Shared vocabularies and schemas for the SuperInstance ecosystem** — standardized terminology, JSON schemas, and data models used across fleet components.
 
-Part of the [SuperInstance](https://github.com/SuperInstance) ecosystem.
+## What's Here
 
-## Related
+- JSON-LD vocabularies for agent communication
+- JSON schemas for tile formats and message types
+- Shared data models and type definitions
+- Cross-repo terminology consistency
 
-- [forgemaster](https://github.com/SuperInstance/forgemaster)
-- [cocapn-plato](https://github.com/SuperInstance/cocapn-plato)
-- [plato-core](https://github.com/SuperInstance/plato-core)
+## Usage
+
+Reference these vocabularies in your project's schemas and type definitions for fleet-wide consistency.
+
+## License
+
+MIT
